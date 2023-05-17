@@ -1,1 +1,1 @@
-apikey = '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'
+apikey = 'OpenAi APi Key'
