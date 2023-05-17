@@ -1,0 +1,212 @@
+Yury Bialykh
+Will you share your deck?
+
+Anatolii Lobanov
+Yeah. Give me a SEC.
+
+Anatolii Lobanov
+OK, this would be the right one.
+
+Yury Bialykh
+Yeah, we can see it, OKAnatolii Lobanov
+So.Yury Bialykh
+There's get going, I guess so. Hey, everyone. Again. For those who joined ourury Bialykh
+Q&A session earlier last week, we we we've met before.Yury Bialykh
+Thank you for joining. Thank you for willing to participate in our first AI hackathon.Yury Bialykh
+It's.ury Bialykh
+It got quite an attention. So as you might have be aware, we are we've exceeded the limit that we originally set by 100% by more than 100%. We have a total of 41 participating teams right now. The teams are packed. So you'll be competing with roughly like 200 and 22140 people all over the world. We have folks fromYury Bialykh
+Most of the disciplines we have product managers, engineers, QA, BA, delivery managers, DevOps like we have everyone just greatYury Bialykh
+Uh, we've changed some of the format rules. We'll talk about it in a second to accommodate this. This number of teams, we didn't really we we didn't actually end up turning any teams out. So we accepted everyone. A couple teams just pulled off on their base on their own initiative, but we accepted everyone and that's what we wanted to do. So we had to make some adjustments in, in the process and in the format specially in how the judging will work. I'll talk about it in a second.Yury Bialykh
+But other than that, we have a really great attendance and I hope we can convert it in, in, in awesome projects in the end on Monday. So we start today officially, we've just stored itYury Bialykh
+So at the you officially can start the work. We'll talk about the format in a SEC. So stay, stay. Please stay on this on this call to get important details will be working all the weekends to Monday.Yury Bialykh
+You'll be mostly working on your own. You don't need anything from us, but the org team will be around. The teams will still be the primary communication channel, so if you ever need anything, just reach out. We'll send you more communication later today. We'll talk about it in a second.Yury Bialykh
+And then the car off date will be.Yury Bialykh
+Monday, May 15, I think 12:00 PM you just see is like what eight 8:00 PM Eastern?ury Bialykh
+So something like this?Anatolii Lobanov
+Uh, yes, 88 eastern E is 12, like noon, ETC.ury Bialykh
+Right, basically one hour before we start the demo sessions and there are a couple important steps that you need to take before the cut off time in order to to to remain in the game and not to be disqualified. And we'll talk about it in a secondury Bialykh
+So you can go to the next slide. I don't really know how you order them soYury Bialykh
+Yeah. So we already talked about that we are not restricted to use. You are allowed to use any technology, language, tool, whatever you want. You can host it wherever you want.Anatolii Lobanov
+Sure.ury Bialykh
+There are a couple of restrictions in our end. You can quote wherever you want, but for the final submission and we'll talk about final submission at at at the end, we will require you actually it's right there. We will require you to move your code to the GitHub report. Can you go to the previous slide for a second?ury Bialykh
+Yes. So we will be sponsoring open AI API access as we said on the Q&A, you should have actually created those in advance. I mean you can create them right now, but open AI throttles the first couple days. So it might not be the pleasant experience. You can reuse existing accounts if you have them. That's totally fine the way the reimbursement will work and you get this communication after the hackathonYury Bialykh
+We will reimburse one invoice from team according to our amount which is 120 bucks per team, which is the maximum amount that default account gets from open AI per month. So we'll just need an invoice for the month of May from your end and we'll reimburse it. But you can use any other tools. We just reimburse the open AI usage.ury Bialykh
+So these things will be at your disposal to to create your projects and and products according to the themes that we'll discuss in a second. What you will get later today shortly after this kickoff, you'll add the team captains will get a link to the final submission form that you will have to submit prior to the cut off date. This is extremely important. The late submissions might and probably will be disqualified. So this is the single most importantury Bialykh
+Thing that you need to be thinking as you approach the end on on Monday. You can do it as early as possibleYury Bialykh
+So the form is quite simple. We'll request the you know the the the meta information from you.Yury Bialykh
+Looked the team name and cetera, we'll have an executive summary that will be the short and concise description of your idea and implementation.ury Bialykh
+I'll focus on the problem you're trying to solve. Focus on how you solved it.Yury Bialykh
+And focus on what was done during the hackathon, right? All these three things are important, and we'll talk more about it once we touch the judging criteria, the target category.ury Bialykh
+A list. It will be in the form like we have 3 categories. You can pick the categories you're going after cause you know but again you might be reassigned to different categories depending on how you do on the scoring. So the judges will actually make a decision on where you put it. You might end up in multiple categories, but if you know that, let's say you're focusing on engineering productivity. You can shortly mark this as the form and we'll take it into considerationYury Bialykh
+That probably the single most important part of the submission is this demo link, so this will be the prerecorded demo of what you've been able to accomplish during the hackathon will limit it to 6 minutes.Yury Bialykh
+So just again that if you go over limits, you might be disqualified. I'll just that the rest will be ignored. So thank you. Through think about it as your elevator pitch. Like pack your content, you can rehearse mobile. It's prerecorded. So it's do it at your own pace again. Focus on explaining the idea that you have explaining the solution and then proving what you've done right, showing what you've done during the hackathon.Yury Bialykh
+This is very important because as I'll start explaining you the format you'll you'll you'll know you'll know why because of the scale, a lot of judgment will be done offline. So this is very important to have this. The next part would be quote. Again, we're not really you can develop whatever you want. You can start it start in the GitLab already or you can put it in any it's your code, you own it, you can put it whatever you want. But for the final submission because.Yury Bialykh
+We'll need judges to have access to your source code to examine it, and again to to score. We have the technical excellence category. We'll ask you to move your code prior to the cut off date to the Git lab, to EPAM, GitLab so that it is accessible for our judges. Right. And we the rule is also that you cannot, there cannot be commits past the cut off date. Otherwise you'll risk in the be disqualified.Yury Bialykh
+If you like at the demo link again should be a the the demo itself should be uploaded to the SharePoint and the link should be shared and there will be more instructions in the form, but I just wanted to walk through the main parts and then the last block is supporting materials. Anything else that you'd like to attach? Diagrams, wireframes, more content? So it's an extra if you want it to be considered. It's optional and again depending on how much time we'll have, we might get to it. We might not, but make sure that the demo and the code and the description is there.Yury Bialykh
+That's the most important part and everything else. You just drop it into SharePoint, you make it accessible for everyone inside EPAM and you will touch the link to the form. We have some requests from teams if you wanna restrict the access to your demo or to your code for whatever reason. It's also possible just reach out to the org team will give you the names, and we need an access that will be our entire jury panel. Maybe some of the org team members and you can you can restrict the access to just thisYury Bialykh
+But by default, to make it simpler, just make it available for everyone inside EPAM and and and send the link. So again you'll get the form the form is ready to go. You'll get it later today, probably right after the kickoff, and your responsibility would be to fill and submit the form prior to cut off date. This is the single most important thing other than actually building the prototype that you need to keep in mind.Yury Bialykh
+OK. Can we go to the next one and I'll take questions at the end, of course.Yury Bialykh
+So now, demos, demos will be on Monday. So.Yury Bialykh
+You eat every captain or every team member should already have an invite for Monday demo sessions. The demos because of the scale we.Yury Bialykh
+Randomly split the teams into three groups.Yury Bialykh
+And then we Samy randomly split the judges into three groups.Yury Bialykh
+Semi randomly because each group should have someone who is focused on technology, on product, on design, on digital, so that they're balanced and.
+Yury Bialykh
+There will be 3 demos streams going in parallel on Monday, so if you have an invite, you have an invite for your own stream for for for where you are will be presenting the.
+
+Yury Bialykh
+Demos will go in order, so the order is in the invite and will also keep you updated because some teams might wanna drop off from the from the hackathon and we'll have to rebalance the.
+
+Yury Bialykh
+Sessions. So we'll we'll we'll be communicating with you actively if if there are any any changes, but the demo will be for each individual group. You'll have judges from your group and you'll have other teams from your group attending the session you'll have.
+
+Yury Bialykh
+10 minutes total for your demo. So six minute for the actual demo. The same demo that you prerecorded like the same format and then 4 minutes. For the Q&A, we'll have moderators in each session that will be actively policing for time just to make sure that we keep moving and we allowing the teams that are going after you to present right. So be concise. We will not allow to go over because we wanna everyone to give it a chance to present.
+
+Yury Bialykh
+You can stay for the whole demo. You can. You can. You'll get your time slot. You can just show for your time slot, like 10 minutes prior. Probably maybe 15, just to make sure we account for in shift and you're welcome to, like, roam around and check other demos. We are planning to broadcast them for everyone. So if you just wanna.
+
+Yury Bialykh
+You know, just check out what out of the teams are presenting. You can do this so judges will be on those demos and they might ask questions. Let's just suit to be prepared for it. Again. The important part here is.
+
+Yury Bialykh
+Know when and now when you're presenting, be there. Be ready to do your demo.
+
+Yury Bialykh
+It can be a live demo. You you know you can do the prerecording whatever. If you fear that something will not work and the life matter like prepare fake it. Whatever this is, it's it's on you and then the Q&A and the timing is very important. So make sure that you are within this 10 minutes time frame because they said we will not be able to give you more time because we have more than 40 teams.
+
+Yury Bialykh
+You can go to the next one please.
+
+Yury Bialykh
+Yes. So the judging the judging will work as following. There will be 2 phases and again the the, the the design here was done to make sure that we give enough throughput for the judge and team and we're also limiting the load on a single judgment team member because we have for the teams just just a lot of content to go through. So as I said, the judges will be.
+
+Yury Bialykh
+Already split into.
+
+Yury Bialykh
+Groups and they'll assigned the team group right? So we have three groups, so each judge will have a group assigned and they also have a primary category like this is their focus like technology or design or.
+
+Yury Bialykh
+Product management or or digital?
+
+Yury Bialykh
+So for phase one, judges will attend the demos and review your demos live during the demo sessions. Or if some cannot make it or cannot make it for the entire duration. They can also catch up reviewing your recordings, right? That's why recordings are extremely important, like this is very important artifact. So the way we structure the format for judges, their score and their primary group first, that will be roughly 14 teams per group.Yury Bialykh
+So judges are scoring those fourteen teams first after that and and those would be the teams that will present on the demo. So they either do it live.
+
+Yury Bialykh
+Or they do it after that by reviewing recordings or they do both. After that, they're free to go and score any other teams they'll have access to all the other submissions, but they must score their primary group first. By doing that, we at minimum they need to score 14. They need to score. They do not need to score 41, and we are guaranteeing the scoring coverage for every single team from a balanced set of judges. Right after that, they can go and score other teams if they want to review the recording again. That's why providing the recording materials is extremely important.
+
+Yury Bialykh
+Was checked into the more offline score and just took commodate the scale.
+
+Yury Bialykh
+Once we're done with space one, the org team will, based on the scoring from phase one, will.
+
+Yury Bialykh
+Group.
+
+Yury Bialykh
+And I'll talk about the scoring in a second, will I mean the criteria will group the submissions into short list for each category depending on the feedback from the judges. And we'll present this list for the phase one back to the judges, right. So we'll have a short list for.
+Yury Bialykh
+Best intact and shortlist for best in digital and the for the shortlist for best in in design and all our other categories.
+Yury Bialykh
+So the judges will reconvene again and they'll score within the same short list. Well, with within each short list by picking the winner. And the way it's gonna work again, some judges who whose primary focus is within the category, like those that are focused on tech, must score their category first before they can proceed to other categories and their vote will be weighted. They'll have more votes, basically. So this will guarantee that people who understand the category are.
+Yury Bialykh
+Hey 8 score in the teams and the category and B have a have more have more words. So that's where actually getting the better results. And then the Grand Prix will be assigned in the same at the same time. So after these two phases we'll have winners in each category and the Grand Prix, as you can see, the process is not complicated, but there has a lot of steps and we have a lot of judges and they're all busy people. So our ambitious timeline is to do.
+Yury Bialykh
+Should be done with phase one and one day, and then have two days to complete the phase two. But things might change as we might need to know run up to judges and and and figure out. So we'll we'll keep you updated if if we need more time, but that's the goal. That's model.
+
+Yury Bialykh
+Is balancing the amount of judging and needs to be happen for for one member and it's also making sure that each team is being reviewed by a balanced team of judges with all the necessary skill set, and if they get into the category within category, whoever is an expert in this category also gets a chance to review them so you can see it's some of it offline based. So again make sure that you're recording your coding and artifacts are there.
+
+Yury Bialykh
+After submitted our accessible otherwise you know, judges just won't be able to to to score you.
+Yury Bialykh
+Can we go to the next one?
+Yury Bialykh
+So the way the judge is gonna work, they'll have a special template that we're not gonna show you, but basically it there, there are five main criterias and three of them have different aspects of it. So first would be the problem solution fit and we assess the impact and the value proposition like how good is your idea, what is the value proposition for whatever problem you're trying to solve for the customers or for the users that you're aiming. And then also the business viability, right? You might have the best idea in the world.
+
+Yury Bialykh
+But it's just simply not possible to implement, so it might be realistic. So the business viability is best proven by.
+Yury Bialykh
+Doing a good demo, but actually proving it during the hackathon, but actually building something that proves that you can move into this direction. So these are the first two criteria that technological complexity in excellence first mainly focused on the UI, how well the I is incorporated from a technology perspective, this is the main criteria here. And then after that overall technological complexity of the solution, same for the design and UX first how well the UI is incorporated into the design of your application. What aspects of the design I changed to incorporate the UI.
+Yury Bialykh
+What? And then the overall design and user experience of the product that you've built in? And then two specials alignment with the digital theme, how well
+Yury Bialykh
+Your product is can be fitted into the digital ecosystem and impact on the general productivity. And again, if you're going after it.
+
+Yury Bialykh
+They'll, they'll says, based on this criteria, so and then there's the scoring framework behind it, but it doesn't matter.
+Yury Bialykh
+These are the main things, and then as you can see, yeah, the the there's a design to assess from from multiple dimensions. Can we go to the next one till I think we have a couple more couple more left yeah. So these are the main categories that will be included into form that have been shared previously yeah. And digital technology yeah. And next Gen. UI and engineering productivity and then special categories on tenant technology use and the problem solution feed. So this will be defined and format that I explained for this one phase two
+Yury Bialykh
+And then the Grand Prix. This is like the best of the best. Will be also assigned during the sometime at the face to the we you should have the invite. If not there's a placeholder will send you the invite for the winner announcement. Again depending on how well and how well we can progress through in the judgment we we target.
+
+Anatolii Lobanov
+Yes.
+
+Yury Bialykh
+May 10th, which is, I believe Thursday next week, right to to announce, to announce the winner and then after that we'll do probably we'll do more communication we'll do highlights because we expect a lot of good submissions. So we want to do highlights. We want to talk about different formats but like at minimum we will plan to announce the winners end of next week.
+Yury Bialykh
+For the categories you can see there remained the same. They're fairly brought intentionally, so categories and judging criteria are your main.
+Yury Bialykh
+Guiding posts in your design process like it like, look at the categories and look at how it will be scored to design to decide of what kind of idea you wanted to explore again and make sure that you actually build a working prototype to prove the viability.
+Yury Bialykh
+And I think this is the last slide told you I think the next one is your.
+
+Yury Bialykh
+Uh cloud of text with with different things that might inspire teams, I guess to to think uh and then move into the right direction.
+
+Yury Bialykh
+Will sum up everything, and we'll pause this deck and we'll post more communication in the teams later today, so you'll have all of that. You'll get the form for the submission explaining the same thing again. You should have an invite for Monday with your presenting time frame, and we will be around for the entireYury Bialykh
+Hackathon duration. So if you ever need something.Yury Bialykh
+Please reach out.
+Yury Bialykh
+OK, now we'll start taking questions first by.
+
+Yury Bialykh
+Looking at the charts, share the presentation. OK, we'll do this.
+
+Yury Bialykh
+If some teams and knowledge is the similar problem presents similar to how we handled, I mean your implementation will be different. That's totally fine. In fact, that actually might be even desirable, right? That that that I don't believe that you'll implement it in the same way you might go after the same problem, but the implementation is what matters here. So I don't see any problems there. So fine.
+ury Bialykh
+What at the time of cut off Daria, there would be 8:00 AM EST Monday, one hour before the demo and you should submit your form prior to the cut off date, right? So just don't wait till the very end. You should you can submit it earlier. In fact for the for the code for example you can if you already have your recording.
+Yury Bialykh
+And but you still wanna do some polishing on the court. You can submit your form earlier and work on your code up until the cut off date because you can submit the link to the repository, we just won't accept repositories with commits after the the cut off date, but you can commit prior to cut off date. So think about when you're gonna submit the final form in advance place so that it's not a mad dash at the end because it's. This is really important.
+
+Yury Bialykh
+Yeah. So the other demo recordings will be published once we consulted everything the.
+
+Yury Bialykh
+Actual.
+
+Yury Bialykh
+Uh demo sessions and toilet keep me honest. Here are supposed to be streamed live. Is this still the plannatolii Lobanov
+Uh, yes, that's the plan. So we are all tech tech based on this today and on Monday, but the plan is to stream, yeah.
+
+Yury Bialykh
+OK. I mean you you probably won't have time to go around and watch out the recorded, but if you do or if your friends wants to check it out, all three demo sessions on Monday will be streamed live like you can, you can, you will, it's on weird community.
+
+Yury Bialykh
+After that, the recording of the demo sessions, the live demos and the recording that we compiled will move it somewhere, but give us some time. Like for the God's 41 team we're dealing with like we'll we'll we we wanna highlight the good work that's been done. I'm sure there will be some interesting stories to talk about and some interesting cases to examine, even though they're not be part of the winning categories. So.
+
+Yury Bialykh
+We'll we'll need some time to process it, but we'll try to share as much as possible with with you. Uh participants.
+
+Yury Bialykh
+Any other questions?
+
+Yury Bialykh
+OK then. Good luck. Have fun. We'll.
+
+Yury Bialykh
+Sure. Hovik, go ahead.
+Hovik Tamazyan
+One more question, sorry for interrupt you before. Before demo of the product should be demonstrate the team structure or how we did the discovery phase or just product demonstration.
+Yury Bialykh
+So, OK, great question again. I think someone asked it about the structure of the demo. Do you need to bring deck, do you need to have a PowerPoint? It's up to you. So it whatever you feel best, whatever you feel will best convey your idea and implementation and the process like included in the demo. You obviously have a limited amount of time. You have just six minutes, but it's app to you what you wanna do if you want to showcase the work by highlighting people who participated or highlighting the process that you've gone through to arrive to idea.
+ry Bialykh
+That's fine. You can do this. Plus remember, in addition to your main demo, which is the most important artifact, you can also submit other support and artifacts, right? No guarantee that the judges will get to it, but you can server. So it's on you to how you want to structure it. You wanna have a PowerPoint and show the PowerPoint, go for it. You wanna do the live demo and just show the code, go for it, whatever you feel.
+Yury Bialykh
+Uh illustrates a your problem B your solution and what was done during the hackathon time. Like whatever you feel better illustra
